@@ -65,13 +65,13 @@ Selecione a versão **chromedriver_win32.zip**. O arquivo será instalado automa
 
 Com o arquivo instalado no seu computador, clique com o botão direito do mouse sobre ele e selecione "Extrair tudo".
 
-NOTA: Caso tenha o WinRar, selecione a opção WinRar > Extrair para chromedriver_win32
+> NOTA: Caso tenha o WinRar, selecione a opção WinRar > Extrair para chromedriver_win32
 
-NOTA: Caso tenha o 7z-Zip, selecione a opção 7z-Zip > Extrair para "chromedriver_win32"
+> NOTA: Caso tenha o 7z-Zip, selecione a opção 7z-Zip > Extrair para "chromedriver_win32"
 
 Abra a pasta descompactada, copie o arquivo "chromedriver.exe" para a pasta principal do projeto.
 
-NOTA: Caso apareça a janela que existem arquivos com o mesmo nome, clique em "Substituir tudo".
+> NOTA: Caso apareça a janela que existem arquivos com o mesmo nome, clique em "Substituir tudo".
 
 ## <a name="4">Executando o projeto</a>
 
@@ -79,9 +79,9 @@ Na página do projeto, clique em Code > Download Zip. O arquivo será instalado 
 
 Com o arquivo instalado no seu computador, clique com o botão direito do mouse sobre ele e selecione "Extrair tudo".
 
-NOTA: Caso tenha o WinRar, selecione a opção WinRar > Extrair para tiktok_auto_mensage-main
+> NOTA: Caso tenha o WinRar, selecione a opção WinRar > Extrair para tiktok_auto_mensage-main
 
-NOTA: Caso tenha o 7z-Zip, selecione a opção 7z-Zip > Extrair para "tiktok_auto_mensage-main"
+> NOTA: Caso tenha o 7z-Zip, selecione a opção 7z-Zip > Extrair para "tiktok_auto_mensage-main"
 
 Abra a pasta descompactada, e execute o arquivo **run.bat**. O script será executado automaticamente.
 
