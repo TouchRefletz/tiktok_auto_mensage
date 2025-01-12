@@ -42,7 +42,7 @@ driver.get("https://www.tiktok.com/messages") # Abre as mensagens do seu TikTok
 
 WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "css-1mez8np-PInfoNickname"))) # Delay para evitar problemas no código por conta do carregamento. Ajuste caso o delay seja pequeno
 
-nicknames = driver.find_element(By.CLASS_NAME, "css-1mez8np-PInfoNickname") # Seleciona todos os usernames que existem na sua aba de conversas
+nicknames = driver.find_elements(By.CLASS_NAME, "css-1mez8np-PInfoNickname") # Seleciona todos os usernames que existem na sua aba de conversas
 
 nicknames_to_keep = ["<USUARIO1>", "<USUARIO2>", "<USUARIO3>"] # Nessa lista estão os nomes na qual você deseja enviar as mensagens. Troque <USUARIO1>, <USUARIO2>, e <USUARIO3> para os nomes dos usuários desejados
 
